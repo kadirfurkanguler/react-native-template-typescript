@@ -1,0 +1,8 @@
+{
+  "name": "react-native-template-typescript",
+  "version": "0.0.1",
+  "description": "React Native Template with TypeScript",
+  "repository": "git@github.com:Esemesek/react-native-new-template.git",
+  "author": "KADIR FURKAN GULER <kadir@furkanguler.dev|| kadirfurkanguler@gmail.com>",
+  "license": "MIT"
+}
