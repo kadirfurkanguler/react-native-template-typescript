@@ -1,5 +1,7 @@
 import {colors} from '@utils';
 import React from 'react';
+export * from './.stories';
+export * from './props';
 import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
 import {TouchableOpacity} from 'react-native';
 import {Text} from '@components';

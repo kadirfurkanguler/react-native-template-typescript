@@ -13,7 +13,15 @@ module.exports = {
       'module-resolver',
       {
         root: ['./app'],
-        extensions: ['.ios.js', '.android.js', '.js', '.ts', '.tsx', '.json'],
+        extensions: [
+          '.ios.js',
+          '.android.js',
+          '.js',
+          '.ts',
+          '.tsx',
+          '.json',
+          '.stories.tsx',
+        ],
         alias: {
           '@components': './app/components/index.ts',
           '@config': './app/config/index.ts',

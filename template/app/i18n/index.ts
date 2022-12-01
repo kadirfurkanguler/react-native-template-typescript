@@ -16,3 +16,4 @@ I18n.translations = {
 };
 export {t};
 export type I18nType = keyof typeof en;
+export const I18nKeys = Object.keys(en) as I18nType[];
